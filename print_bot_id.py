@@ -1,6 +1,8 @@
+"""Get the bot id from slack
+"""
+
 import os
 from slackclient import SlackClient
-
 
 BOT_NAME = 'geoffrey'
 
