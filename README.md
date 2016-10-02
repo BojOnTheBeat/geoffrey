@@ -1,4 +1,4 @@
 # geoffrey
-A do-it-all slackbot
+_A do-it-all slackbot_.
 
-![](geoffrey/geoff.jpg)
+![](geoffrey/geoff.png)
